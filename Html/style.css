@@ -5,6 +5,7 @@
 
 .principal
 {
+    padding: 30px;
     background: #CCCC;
 }
 
@@ -36,10 +37,24 @@ em strong
 
 .beneficios
 {
+    padding: 20px;
     background-color: white;
 }
 
 h2
 {
     text-align: center;
+}
+
+ul
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 10%; 
+}
+
+.imagembeneficios
+{
+    width: 50%;
 }
