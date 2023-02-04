@@ -1,12 +1,13 @@
-body
-{
-    background: #CCCC;
-}
-
 #banner
 {
     width:100%;
 }
+
+.principal
+{
+    background: #CCCC;
+}
+
 
 h1
 {
@@ -31,4 +32,14 @@ em strong
 .itens
 {
      font-style: italic
+}
+
+.beneficios
+{
+    background-color: white;
+}
+
+h2
+{
+    text-align: center;
 }
