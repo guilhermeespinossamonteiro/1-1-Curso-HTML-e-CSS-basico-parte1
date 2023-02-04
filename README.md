@@ -29,7 +29,7 @@ Codificador (desenvolvedor frontend) vai pegar a forma como foi apresentado e de
 ////////////////////////
 </br>
 
-Por padrao as <li> da lista ja vem com a propriedade block (que no caso ocupa a largura inteira da pagina, bloqueia o conteudo daquela linha)
+Por padrao as li da lista ja vem com a propriedade block (que no caso ocupa a largura inteira da pagina, bloqueia o conteudo daquela linha)
 </br>
 Ja a <img> nao bloqueia, por isso o padrao dela é inline (ela deixa que tenha outros conteudos ao lado)
 </br>
